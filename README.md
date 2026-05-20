@@ -1,4 +1,4 @@
-**Computational Framework for Respiratory Variability Analysis in ABC-Guided Radiotherapy**
+# Computational Framework for Respiratory Variability Analysis in ABC-Guided Radiotherapy
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Status: Pilot Study](https://img.shields.io/badge/Status-Pilot%20Study-orange)](https://github.com/RuthveekMR/abc-respiratory-variability-analysis)
