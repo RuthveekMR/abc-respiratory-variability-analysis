@@ -174,7 +174,7 @@ abc-respiratory-variability-analysis/
 │       ├── fig4_intra_cv_amplitude.png
 │       ├── fig5_inter_cv_duration.png
 │       ├── fig6_inter_cv_amplitude.png
-│       ├── fig7_breathing_profile_scatter.png
+│       ├── fig7_respiratory_variability_profile.png
 │       └── fig8_poincare.png
 │
 ├── paper/
