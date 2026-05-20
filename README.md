@@ -1,5 +1,3 @@
-# abc-respiratory-variability-analysis
-
 **Computational Framework for Respiratory Variability Analysis in ABC-Guided Radiotherapy**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
