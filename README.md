@@ -16,7 +16,7 @@ Developed within the
 **Department of Data Science & Engineering**  
 Manipal Institute of Technology (MIT), MAHE, Manipal, India  
 
-in clinical research collaboration with  
+in academic and clinical research collaboration with  
 
 **Kasturba Medical College (KMC), MAHE, Manipal, India**
 
