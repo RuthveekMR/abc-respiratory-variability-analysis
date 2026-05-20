@@ -275,7 +275,7 @@ L --> M
 
 - **Small pilot cohort:** Six patients from a single institution; findings should not be generalised clinically.
 - **Limited pairwise statistical power:** Although multiple treatment fractions were analysed per patient, the pilot cohort size limits the statistical power of post-hoc pairwise comparisons.
-- **No dosimetric validation:** The study does not evaluate whether observed respiratory variability differences translate into differences in delivered radiation dose.
+- **No direct motion or dosimetric correlation:** The present study focuses on respiratory variability characterisation and does not directly evaluate tumour-motion trajectories or delivered dosimetric consequences associated with observed breathing patterns.
 - **Exploratory thresholding:** The approximate CoV-of-CV threshold used for respiratory consistency assessment is cohort-derived and not clinically validated.
 - **Exploratory study design:** Results should be interpreted as hypothesis-generating observations requiring future validation.
 
@@ -283,11 +283,11 @@ L --> M
 
 ## Future Work
 
-- Expansion to larger multi-centre cohorts
-- Longitudinal respiratory variability tracking across full treatment courses
-- Integration with tumour-motion and dosimetric analysis
-- Predictive modelling of session-to-session respiratory stability
-- Development of patient-specific respiratory management stratification approaches
+- Expansion to larger multi-centre patient cohorts.
+- Longitudinal respiratory variability analysis across complete radiotherapy treatment courses.
+- Integration of respiratory variability metrics with tumour-motion and dosimetric analysis.
+- Investigation of whether early-session respiratory variability metrics can predict subsequent breathing stability.
+- Investigation of whether patient-specific respiratory variability metrics may support personalised respiratory management and abdominal compression assessment strategies during radiotherapy.
 
 ---
 
